@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/go-test/deep v1.0.8
-	github.com/hashicorp/terraform-plugin-framework v0.12.0
+	github.com/hashicorp/terraform-plugin-framework v0.13.0
 	github.com/hashicorp/terraform-plugin-framework-validators v0.5.0
 )
 
